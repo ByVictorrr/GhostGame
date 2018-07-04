@@ -5,9 +5,9 @@
 ## Images:
 
 
-<img src="https://github.com/ByVictorrr/GhostGame/blob/master/images/screenshot2.png" alt="screenshot1" width="200px"/>
-<img src="https://github.com/ByVictorrr/GhostGame/blob/master/images/screenshot1.png" alt="screenshot2" width="200px"/>
-<img src="https://github.com/ByVictorrr/GhostGame/blob/master/images/screenshot3.png" alt="screenshot3" width="200px"/>
+<img src="https://github.com/ByVictorrr/GhostGame/blob/master/images/screenshot2.png" alt="screenshot1" width="200px" align="middle"/>
+<img src="https://github.com/ByVictorrr/GhostGame/blob/master/images/screenshot1.png" alt="screenshot2" width="200px"align="middle"/>
+<img src="https://github.com/ByVictorrr/GhostGame/blob/master/images/screenshot3.png" alt="screenshot3" width="200px" align="middle"/>
 
 
 ### A description of your program and its features.
