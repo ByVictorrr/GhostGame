@@ -4,7 +4,12 @@
 
 ## Images:
 
-![screenshot1](https://github.com/ByVictorrr/GhostGame/blob/master/images/screenshot2.png =100x20)
+![screenshot1]( =100x20)
+
+
+<img src="https://github.com/ByVictorrr/GhostGame/blob/master/images/screenshot2.png" alt="screenshot1" width="200px"/>
+
+
 ![screenshot2](https://github.com/ByVictorrr/GhostGame/blob/master/images/screenshot1.png)
 ![screenshot3](https://github.com/ByVictorrr/GhostGame/blob/master/images/screenshot3.png)
 
