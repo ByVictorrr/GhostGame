@@ -4,9 +4,8 @@
 
 ## Images:
 
-![screenshot1]()
-![screenshot2]()
-![screenshot3]()
+
+![screenshot1|20x10,20%](https://github.com/ByVictorrr/GhostGame/blob/master/images/screenshot2.png)![screenshot2|512x397,20%](https://github.com/ByVictorrr/GhostGame/blob/master/images/screenshot1.png)![screenshot3|512x397,20%](https://github.com/ByVictorrr/GhostGame/blob/master/images/screenshot3.png)
 
 
 ### A description of your program and its features.
