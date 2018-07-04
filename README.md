@@ -4,14 +4,10 @@
 
 ## Images:
 
-![screenshot1]( =100x20)
-
 
 <img src="https://github.com/ByVictorrr/GhostGame/blob/master/images/screenshot2.png" alt="screenshot1" width="200px"/>
-
-
-![screenshot2](https://github.com/ByVictorrr/GhostGame/blob/master/images/screenshot1.png)
-![screenshot3](https://github.com/ByVictorrr/GhostGame/blob/master/images/screenshot3.png)
+<img src="https://github.com/ByVictorrr/GhostGame/blob/master/images/screenshot1.png" alt="screenshot2" width="200px"/>
+<img src="https://github.com/ByVictorrr/GhostGame/blob/master/images/screenshot3.png" alt="screenshot3" width="200px"/>
 
 
 ### A description of your program and its features.
