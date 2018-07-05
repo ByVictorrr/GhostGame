@@ -1,0 +1,12 @@
+game play:
+The game moves in a clockwise fashion, beginning when the first player says a letter. The second player must add another letter to the first, having a word in mind that they are trying to spell (e.g., "RQ " is not admissible as there are no words that begin that way). Player three continues the chain, always adding on to the word without wanting to finish it. The player who tacks on the final letter, ending the word (words must be at least 4 letters long), loses the round and earns a "G" — the first player to get 5 letters and spell G-H-O-S-T is out. For example, if the word chain is H-O-R-S, and if the next player puts an E on the end of the word, he loses because he's spelled the word HORSE.
+
+The catch is that players must have an actual word in mind. If the next player does not believe the word -chain is creating an actual word, he may challenge the previous player to prove they were indeed spelling a word. Let's say the word chain is P-U-R-P-L and there is a challenge. If the previous player can prove there is a word that can be spelled with those letters (PURPLE), the challenger gets another letter added on to their G-H-O-S-T. If the player cannot prove there is a word that begins P-U-R-P-L, he gets penalized.
+
+
+objective:
+Connect letters in a chain, one by one, until a word is spelled. Try not to be the player to finish a word, and do not get caught inventing a new word.
+
+
+A word on strategy:
+There are crafty ways to extend the word-chain. For example, if you have a word-chain like D-I-C-T-A-T, the previous player may have had the word dictate in mind. But you can tack on an "I" and stick the next players with dictation. Conversely, if you have the word playing in mind and the chain so far is P-L-A, you can't add the Y, because that finishes the word play.
